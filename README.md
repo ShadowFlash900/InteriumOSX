@@ -1,6 +1,6 @@
 # 🎮 InteriumX Console OS
 
-![InteriumX Banner](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00d2ff&height=200&section=header&text=InteriumX&fontSize=80&fontColor=ffffff&desc=Python%20Based%20Game%20Console%20Simulation&descSize=20&fontAlign=50)
+![InteriumX Banner](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00d2ff&height=200&section=header)
 
 <div align="center">
 
