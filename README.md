@@ -7,7 +7,7 @@
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge&logo=python)](https://www.python.org/)
 [![Pygame](https://img.shields.io/badge/Pygame-CE-green?style=for-the-badge&logo=pygame)](https://www.pygame.org/)
 [![License](https://img.shields.io/badge/License-GNU-orange?style=for-the-badge)](LICENSE)
-[![Status](https://img.shields.io/badge/Status-Stable-blueviolet?style=for-the-badge)]()
+[![Status](https://img.shields.io/badge/Status-InWork-blueviolet?style=for-the-badge)]()
 
 **Симулятор игровой консоли с полноценным циклом загрузки, XMB-меню и встроенными играми.**
 
